@@ -1,1 +1,4 @@
-this
+def frame
+	yield
+end
+frame{}
